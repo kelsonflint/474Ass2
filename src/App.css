@@ -1,0 +1,11 @@
+.description {
+    display: inline-block;
+    margin: 10px auto;
+    widows: 700px;
+}
+
+.chart {
+    margin: 0 auto;
+    display: inline-block;
+
+}
